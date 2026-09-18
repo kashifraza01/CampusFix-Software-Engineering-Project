@@ -156,7 +156,7 @@ These documents cover requirements, architecture, database design, diagrams, tes
 
 ## Team
 
-| Member | Roll Number | Main Responsibility |
+| Member | Main Responsibility |
 | --- | --- | --- |
 | Muhammad Azam | Database design, testing support, documentation review |
 | Kashif Raza | GUI design, requirements analysis, final integration |
