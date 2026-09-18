@@ -158,12 +158,10 @@ These documents cover requirements, architecture, database design, diagrams, tes
 
 | Member | Roll Number | Main Responsibility |
 | --- | --- | --- |
-| Muhammad Azam | IU05-0124-0190 | Database design, testing support, documentation review |
-| Kashif Raza | IU05-0124-0303 | GUI design, requirements analysis, final integration |
-| Tehreem Ijaz | IU05-0124-0126 | SRS preparation, use cases, report formatting |
+| Muhammad Azam | Database design, testing support, documentation review |
+| Kashif Raza | GUI design, requirements analysis, final integration |
 
 **Course:** Software Engineering  
-**Instructor:** Sir Jahanzaib Ahmed Khan
 
 ## Future Enhancements
 
