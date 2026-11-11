@@ -68,11 +68,8 @@ CampusFix-GitHub-Ready/
 │   ├── admin dashboard.png
 │   └── user dashboard.png
 ├── docs/
-│   ├── CampusFix Project Report.docx
-│   ├── CampusFix Project Report.pdf
 │   ├── CampusFix SRS.docx
 │   ├── CampusFix SRS.pdf
-│   └── CampusFix ppt.pptx
 ├── src/
 │   ├── app.py
 │   ├── config.py
@@ -153,13 +150,6 @@ The [`docs`](docs) folder contains:
 - Project Presentation
 
 These documents cover requirements, architecture, database design, diagrams, testing, limitations, and future enhancements.
-
-## Team
-
-| Member | Main Responsibility |
-| --- | --- | --- |
-| Muhammad Azam | Database design, testing support, documentation review |
-| Kashif Raza | GUI design, requirements analysis, final integration |
 
 **Course:** Software Engineering  
 
