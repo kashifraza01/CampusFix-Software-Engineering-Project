@@ -1,11 +1,11 @@
-APP_NAME = "CampusFix"
-APP_SUBTITLE = "Smart Campus Complaint & Maintenance Tracker"
-WINDOW_SIZE = "1180x720"
-MIN_WIDTH = 980
-MIN_HEIGHT = 620
-DB_NAME = "campusfix.db"
+APP_NAME="CampusFix"
+APP_SUBTITLE="Smart Campus Complaint & Maintenance Tracker"
+WINDOW_SIZE="1180x720"
+MIN_WIDTH=980
+MIN_HEIGHT=620
+DB_NAME="campusfix.db"
 
-CATEGORIES = [
+CATEGORIES=[
     "Electrical",
     "Plumbing",
     "Furniture",
@@ -13,12 +13,25 @@ CATEGORIES = [
     "Classroom Equipment",
     "Cleanliness",
     "Safety",
-    "Other",
+    "Other"
 ]
 
-PRIORITIES = ["Low", "Medium", "High", "Urgent"]
-STATUSES = ["Submitted", "Assigned", "In Progress", "Resolved", "Closed"]
-LOCATIONS = [
+PRIORITIES=[
+    "Low",
+    "Medium",
+    "High",
+    "Urgent"
+]
+
+STATUSES=[
+    "Submitted",
+    "Assigned",
+    "In Progress",
+    "Resolved",
+    "Closed"
+]
+
+LOCATIONS=[
     "Ground Floor",
     "1st Floor",
     "2nd Floor",
@@ -28,5 +41,5 @@ LOCATIONS = [
     "Cafeteria",
     "Auditorium",
     "Parking Area",
-    "Other",
+    "Other"
 ]
